@@ -2,6 +2,7 @@
 
 The function is_prime(n) is implemented and tested.
 It returns true if n is an odd prime.
+The function requires no divisions, multiplications, square roots or subtractions.
 
 ## Limitations
 
